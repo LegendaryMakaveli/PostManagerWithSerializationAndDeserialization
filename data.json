@@ -1,0 +1,8 @@
+{
+  "id" : 1,
+  "postId" : 1000,
+  "email" : "Makaveli@gmail.com",
+  "body" : "This is a test post",
+  "author" : "Makaveli",
+  "date" : null
+}
